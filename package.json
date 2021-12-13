@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/ThibaultGoffi/HTML/issues"
   },
-  "homepage": "https://github.com/ThibaultGoffi/HTML#readme"
+  "homepage": "https://github.com/ThibaultGoffi/HTML#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "helmet": "^4.6.0"
+  }
 }

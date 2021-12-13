@@ -1,0 +1,19 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThibaultGoffi/HTML.git"
+  },
+  "author": "Thibault",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThibaultGoffi/HTML/issues"
+  },
+  "homepage": "https://github.com/ThibaultGoffi/HTML#readme"
+}
